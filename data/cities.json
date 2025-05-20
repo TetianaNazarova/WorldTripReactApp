@@ -25,18 +25,6 @@
       }
     },
     {
-      "id": "45fc",
-      "cityName": "Jumilla",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-05-17T13:27:20.847Z",
-      "notes": "fsfszd",
-      "position": {
-        "lat": "38.526916588495375",
-        "lng": "-1.2320017610364744"
-      }
-    },
-    {
       "id": "0e0a",
       "cityName": "Albarracin",
       "country": "Spain",
@@ -82,6 +70,42 @@
       "position": {
         "lat": "41.29431726315258",
         "lng": "-0.46491763972197125"
+      }
+    },
+    {
+      "id": "8e60",
+      "cityName": "Caden",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-05-20T05:40:21.292Z",
+      "notes": "ssd",
+      "position": {
+        "lat": "47.639064076486186",
+        "lng": "-2.279240512192664"
+      }
+    },
+    {
+      "id": "2da4",
+      "cityName": "Balearic Sea",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-20T05:44:21.828Z",
+      "notes": "",
+      "position": {
+        "lat": "39.58875727696545",
+        "lng": "-0.21625224029568682"
+      }
+    },
+    {
+      "id": "2a51",
+      "cityName": "Ampudia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-20T05:59:46.063Z",
+      "notes": "",
+      "position": {
+        "lat": "41.918628865183045",
+        "lng": "-4.793497734486812"
       }
     }
   ]
